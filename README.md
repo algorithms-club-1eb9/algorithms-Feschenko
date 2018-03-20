@@ -1,7 +1,6 @@
-# Algorithms implemented by Feschenko Natalia
+# Algorithms/services implemented by Feschenko Natalia
 
 Instalation:
-Prerequisites
 
     Node/npm installed
 
@@ -10,12 +9,31 @@ First time installation
     Clone this repo
     Install dependencies from project root: npm install
 
-Implemented algorithms:
+Implemented algorithms/services:
 
-1. Binary search.
+1. Binary search
 Path: lib/binary-search
-Test: 6 tests are implemented and passed
+Tests: 6 tests are implemented and passed
+
+2. Data structures: LinkedList, Stack, Queue
+Path: 
+- lib/data-structures/linkedlist
+- lib/data-structures/queue
+- lib/data-structures/stack
+Tests: 3 tests are implemented and passed
+
+3. File reader
+Path: lib/file-reader
+Tests: 2 tests are implemented and passed
+
+4. Sorts: BubbleSort, MergeSort, QuickSort
+Path: 
+- lib/sorts/bubble-sort
+- lib/sorts/merge-sort
+- lib/sorts/quick-sort
+Tests: 9 tests are implemented and passed
 
 To run tests path to folder/file and use one of two commands: 
 1. npm test
-2. node ./node_modules/eslint/bin/eslint.js lib && node ./node_modules/mocha/bin/mocha --recursive lib
+2. node ./node_modules/eslint/bin/eslint.js lib && node ./node_modules/mocha/bin/mocha --recursive lib --fix
+
