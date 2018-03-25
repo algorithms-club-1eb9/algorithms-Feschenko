@@ -22,11 +22,15 @@ Implemented algorithms/services:
 - lib/data-structures/stack
 - Tests: 3 tests are implemented and passed
 
-3. File reader
+3. Dynamic connectivity:
+- Path: lib/dynamic-connectivity
+- Tests: 3 tests are implemented and passed
+
+4. File reader
 - Path: lib/file-reader
 - Tests: 2 tests are implemented and passed
 
-4. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
+5. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
 - Paths: 
 - lib/sorts/bubble-sort
 - lib/sorts/insertion-sort
