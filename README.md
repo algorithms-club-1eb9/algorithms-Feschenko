@@ -12,29 +12,29 @@ First time installation
 Implemented algorithms/services:
 
 1. Binary search
-Path: lib/binary-search
-Tests: 6 tests are implemented and passed
+- Path: lib/binary-search
+- Tests: 6 tests are implemented and passed
 
 2. Data structures: LinkedList, Stack, Queue
-Paths: 
+- Paths: 
 - lib/data-structures/linkedlist
 - lib/data-structures/queue
 - lib/data-structures/stack
-Tests: 3 tests are implemented and passed
+- Tests: 3 tests are implemented and passed
 
 3. File reader
-Path: lib/file-reader
-Tests: 2 tests are implemented and passed
+- Path: lib/file-reader
+- Tests: 2 tests are implemented and passed
 
 4. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
-Paths: 
+- Paths: 
 - lib/sorts/bubble-sort
 - lib/sorts/insertion-sort
 - lib/sorts/merge-sort
 - lib/sorts/quick-sort
 - lib/sorts/selection-sort
 - lib/sorts/shell-sort
-Tests: 18 tests are implemented and passed
+- Tests: 18 tests are implemented and passed
 
 To run tests path to folder/file and use one of two commands: 
 1. npm test
