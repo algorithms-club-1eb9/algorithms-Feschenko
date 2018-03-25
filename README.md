@@ -16,7 +16,7 @@ Path: lib/binary-search
 Tests: 6 tests are implemented and passed
 
 2. Data structures: LinkedList, Stack, Queue
-Path: 
+Paths: 
 - lib/data-structures/linkedlist
 - lib/data-structures/queue
 - lib/data-structures/stack
@@ -27,7 +27,7 @@ Path: lib/file-reader
 Tests: 2 tests are implemented and passed
 
 4. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
-Path: 
+Paths: 
 - lib/sorts/bubble-sort
 - lib/sorts/insertion-sort
 - lib/sorts/merge-sort
