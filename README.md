@@ -26,14 +26,15 @@ Tests: 3 tests are implemented and passed
 Path: lib/file-reader
 Tests: 2 tests are implemented and passed
 
-4. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort
+4. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
 Path: 
 - lib/sorts/bubble-sort
 - lib/sorts/insertion-sort
 - lib/sorts/merge-sort
 - lib/sorts/quick-sort
 - lib/sorts/selection-sort
-Tests: 15 tests are implemented and passed
+- lib/sorts/shell-sort
+Tests: 18 tests are implemented and passed
 
 To run tests path to folder/file and use one of two commands: 
 1. npm test
