@@ -26,8 +26,8 @@ Implemented algorithms/services:
 - Path: lib/dynamic-connectivity
 - Tests: 3 tests are implemented and passed
 
-4. File reader
-- Path: lib/file-reader
+4. Text reader
+- Path: lib/text-reader
 - Tests: 2 tests are implemented and passed
 
 5. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
