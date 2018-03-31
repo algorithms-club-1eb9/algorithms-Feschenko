@@ -33,12 +33,13 @@ Implemented algorithms/services:
 5. Sorts: BubbleSort, InsertionSort, MergeSort, QuickSort, SelectionSort, ShellSort
 - Paths: 
 - lib/sorts/bubble-sort
+- lib/sorts/binary-heap-sort
 - lib/sorts/insertion-sort
 - lib/sorts/merge-sort
 - lib/sorts/quick-sort
 - lib/sorts/selection-sort
 - lib/sorts/shell-sort
-- Tests: 18 tests are implemented and passed
+- Tests: 21 tests are implemented and passed
 
 To run tests path to folder/file and use one of two commands: 
 1. npm test
